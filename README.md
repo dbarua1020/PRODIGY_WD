@@ -8,7 +8,7 @@ The Prodigy Infotech Online Internship, held from 1st September to 30th Septembe
 • Internship Duration: 1 Month [1st September - 30th September] <br>
 • Mode: Online <br>
 • Technologies & Languages: HTML, CSS, JavaScript <br> <br>
-• Projects: <br>
+Projects: <br>
 All the projects completed during this internship are included within this folder, showcasing the work I have done during the one-month period. Each project highlights my progression and hands-on experience with frontend development technologies.
 
 
