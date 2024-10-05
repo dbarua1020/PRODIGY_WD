@@ -29,5 +29,5 @@ All the projects completed during this internship are included within this folde
 
 <br> <br>
 <h3> Project 4- </h3>
-<img width="956" alt="image" src="https://github.com/user-attachments/assets/178f96b9-e18b-439a-a9e1-461749534a17">
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/decd5f8c-0251-4f32-9465-7a24e0752619">
 <br>
