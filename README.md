@@ -11,8 +11,8 @@ The Prodigy Infotech Online Internship, held from 1st September to 30th Septembe
 Projects: <br>
 All the projects completed during this internship are included within this folder, showcasing the work I have done during the one-month period. Each project highlights my progression and hands-on experience with frontend development technologies.
 
-Project1-
-
+<br> <br>
+<h3> Project1- </h3>
 <br>
 <img width="706" alt="image" src="https://github.com/user-attachments/assets/6694721b-6da4-42cc-9cbf-c87cee558ef8">
 
