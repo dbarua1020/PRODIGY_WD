@@ -18,16 +18,16 @@ All the projects completed during this internship are included within this folde
 <br> <br>
 <h3> Project 2- </h3>
 <br>
-<img width="877" alt="image" src="https://github.com/user-attachments/assets/80596772-1a3a-43ee-8fb1-233dcdcc5c53">
+<img width="706" alt="image" src="https://github.com/user-attachments/assets/80596772-1a3a-43ee-8fb1-233dcdcc5c53">
 
 
 <br> <br>
 <h3> Project 3- </h3>
 <br>
-<img width="813" alt="image" src="https://github.com/user-attachments/assets/9eb2886d-ae4d-4d9c-b66f-2f3ee5c11e1e">
-<img width="813" alt="image" src="https://github.com/user-attachments/assets/c3cd5155-fbee-48aa-94fc-31fa0d38051b">
+<img width="706" alt="image" src="https://github.com/user-attachments/assets/9eb2886d-ae4d-4d9c-b66f-2f3ee5c11e1e">
+<img width="706" alt="image" src="https://github.com/user-attachments/assets/c3cd5155-fbee-48aa-94fc-31fa0d38051b">
 
 <br> <br>
 <h3> Project 4- </h3>
-<img width="946" alt="image" src="https://github.com/user-attachments/assets/decd5f8c-0251-4f32-9465-7a24e0752619">
+<img width="706" alt="image" src="https://github.com/user-attachments/assets/decd5f8c-0251-4f32-9465-7a24e0752619">
 <br>
